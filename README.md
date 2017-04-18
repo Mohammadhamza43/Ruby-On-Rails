@@ -1,4 +1,8 @@
-# README
+# Ruby on Rails
+
+##IT Entrepreneurship
+
+### INDEX Project
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
